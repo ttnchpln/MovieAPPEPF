@@ -35,18 +35,6 @@ The application relies on the following RESTful API for retrieving movie data:
 API Base URL: https://developers.themoviedb.org/3
 API Documentation: Getting Started with TMDb API
 
-## Getting started
-To build and run this application, you need the following : Android Studio.
-
-Clone the repository from GitHub:
-
-`git clone https://github.com/theogenix/MovieAppEPF.git`
-
-Open the project in Android Studio.
-
-Build and run the application on an Android emulator or physical device.
-
-
 ## Additional Features
 Category-based Movie Search: Users can now search for movies based on specific categories such as Romance, Animation, Action, and more. This feature allows users to filter the movie results and find movies that belong to their preferred genre or category.
 
